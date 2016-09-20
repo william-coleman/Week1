@@ -1,0 +1,24 @@
+.sidebar{
+    color:red;
+    width:50%;
+}
+
+.main_body{
+    width:50%;
+}
+
+.favorite_food{
+    font-family:cursive;
+    font-style:italic;
+    font-size:20px;
+}
+
+.favorite_color{
+    color:blue;
+    font-style:italic;
+}
+
+.favorite_book{
+    border: 10px solid deeppink;
+}
+
